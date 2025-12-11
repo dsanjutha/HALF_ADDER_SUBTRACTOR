@@ -49,13 +49,25 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+<img width="1920" height="1080" alt="de_ex_3,ha,program" src="https://github.com/user-attachments/assets/1290ec56-30c3-46a7-8ba0-1f0c6d503c3e" />
+<img width="1493" height="847" alt="Screenshot 2025-12-11 223028" src="https://github.com/user-attachments/assets/8f7ed676-d776-41d6-b02c-5f415213c213" />
 
+   
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+Developed by: d.sanjutha  RegisterNumber:25015927 */
+
+
 
 **RTL Schematic**
+<img width="1920" height="1080" alt="de_ex_3,ha,output" src="https://github.com/user-attachments/assets/312589c7-844b-4505-83c3-e467bfddc730" />
+<img width="1502" height="853" alt="Screenshot 2025-12-11 222607" src="https://github.com/user-attachments/assets/5e9b8ec5-6f72-4c92-a3b7-0453304548f7" />
 
 **Output/TIMING Waveform**
+<img width="1920" height="1080" alt="de_ex_3,ha,wave" src="https://github.com/user-attachments/assets/46f502f3-8a36-43cd-836d-6bc6f0ad2380" />
+
+<img width="1501" height="847" alt="Screenshot 2025-12-11 222935" src="https://github.com/user-attachments/assets/8dc55fd9-1462-413d-a26f-ca36ddc42fd9" />
 
 **Result:**
+
+Thus the given design implement and verifield using truth table
